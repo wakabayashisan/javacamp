@@ -15,5 +15,6 @@ public class Main {
         System.out.println(karakterler);
         System.out.println(mesaj.indexOf("av"));
         System.out.println(mesaj.lastIndexOf("a"));
+
     }
 }
